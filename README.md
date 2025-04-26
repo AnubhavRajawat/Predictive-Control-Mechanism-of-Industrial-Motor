@@ -1,0 +1,1 @@
+# Predictive-Control-Mechanism-of-Industrial-Motor
