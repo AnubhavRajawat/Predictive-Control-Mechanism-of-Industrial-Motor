@@ -5,6 +5,8 @@
 
 A real-time monitoring system for industrial motors using ESP32, multiple sensors, MQTT, and a Node-RED dashboard. This system helps detect early signs of motor failure like vibration anomalies, overheating, or RPM drops—enabling predictive maintenance.
 
+Developed an IoT-based system for real-time monitoring and predictive maintenance of industrial motors using ESP32. Integrated sensors like ADXL345 (vibration), DHT22 (temperature & humidity), LM35 (temperature), and E18-D80NK (proximity) to detect anomalies. Data was vis
+
 ---
 
 ## 🔧 Hardware Used
